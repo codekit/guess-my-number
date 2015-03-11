@@ -209,13 +209,14 @@ ul.guessBox li {
     color: #fff;
 }
 @media only screen and (max-width: 480px) {
-            h1 {
-  font-size: 1.4em;
-            }
+   h1 {
+      font-size: 1.4em;
+      }
 
 header h2 {
-
-  font-size: 1em;
+   font-size: 1em;
+  line-height: 1.3em;
+  letter-spacing: 3px;
 }
 p {
   padding: 18px;
